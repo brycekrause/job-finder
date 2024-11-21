@@ -6,5 +6,3 @@ async function getJobs(){
     const data = response.json();
     document.writeln(data);
 }
-
-getJobs();
