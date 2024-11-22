@@ -22,12 +22,33 @@ url_array = [
 
 responses = []
 
-c = 0
+def getNext(url):
+    response = requests.get(url).json()
+    responses.append(response)
+
+    # get every page
+    try:
+        getNext(response[0]['next'])
+    except KeyError:
+        print('No value found for [next]')
+
 for r in url_array:
     # make the request TODO: add exception handling
     response = requests.get(r).json()
     responses.append(response)
 
+    # if there are multiple pages
+    try:
+        # TODO: find 'next' index. rate limited atm.
+        print(response[0])
+        print(response[1])
+        getNext(response[0]["next"])
+        print(response[0]['next'])
+    except KeyError:
+        print('No value found for [next]')
+
+c = 0
+for i in responses:
     filename = str(f"data{str(c)}.json")
     # write to a newly created file
     with open(filename, 'w') as file:
