@@ -1,0 +1,241 @@
+{
+    "count":23925,
+    "next":"https://jobdataapi.com/api/companies/?page=2",
+    "previous":null,
+    "results":[
+        {
+            "id":3515,
+            "name":"0x Labs",
+            "logo":"https://jobdataapi.com/media/company/logo/22/07/0xProject.jpg",
+            "website_url":"https://www.0x.org/",
+            "linkedin_url":"https://www.linkedin.com/company/0x/",
+            "twitter_handle":"0xProject",
+            "github_url":null,
+            "info_description":"0x is developers\u2019 one-stop shop to build financial products on crypto rails. Hundreds of developers use 0x tools to enable faster trading, better prices and superior UX. Our suite of APIs has processed over 52 million transactions and $125B in volume from more than 6 million users trading on apps like Coinbase Wallet, Robinhood Wallet, Matcha, Metamask, Zerion, Zapper, and more.\n\nFounded in 2017, the 0x team is also the creator of the decentralized exchange aggregator Matcha and the 0x Protocol. The team has made significant technical contributions to the Ethereum ecosystem, including the NFT token standard (ERC721) and has raised $109M up to Series B from leading investors as Pantera Capital, Greylock, Coinbase and Jump.",
+            "info_hq":"San Francisco, CA",
+            "info_size":51,
+            "info_founded":2016,
+            "info_specialties":"Ethereum|Smart Contracts|Blockchain|Cryptography|DeFi|NFTs|Avalanche|BNB Chain|Celo|Optimism|Fantom|Polylgon|Decentralized Finance|Web3",
+            "info_industry":{
+                "id":7,
+                "name":"Software Development"
+            },
+            "info_type":{
+                "id":1,
+                "name":"Privately Held"
+            },
+            "num_jobs_open":7,
+            "num_jobs_total":29
+        },
+        {
+            "id":10718,
+            "name":"1000heads",
+            "logo":"https://jobdataapi.com/media/company/logo/23/09/logo_img_rLLTZDq.png",
+            "website_url":"https://1000heads.com/",
+            "linkedin_url":"https://www.linkedin.com/company/1000heads",
+            "twitter_handle":"1000heads",
+            "github_url":null,
+            "info_description":"1000HEADS IS A SOCIAL TRANSFORMATION\u2122 COMPANY\n\nWe combine expertise in data & analytics, strategy, technology and creativity to help the world\u2019s best businesses build social age brands.\n\nIf you are interested in joining us, please contact us on hr@1000heads.com\n\nIf you would like to get in touch about to find out more about us working with you, please use info@1000heads.com",
+            "info_hq":"London",
+            "info_size":51,
+            "info_founded":2000,
+            "info_specialties":"Word of Mouth|Social Media|Listening & Understanding",
+            "info_industry":{
+                "id":8,
+                "name":"Advertising Services"
+            },
+            "info_type":{
+                "id":1,
+                "name":"Privately Held"
+            },
+            "num_jobs_open":23,
+            "num_jobs_total":221
+        },
+        {
+            "id":1806,
+            "name":"100ms",
+            "logo":"https://jobdataapi.com/media/company/logo/22/02/100mslive.jpg",
+            "website_url":"https://www.100ms.live/",
+            "linkedin_url":"https://www.linkedin.com/company/100mslive/",
+            "twitter_handle":"100mslive",
+            "github_url":"https://github.com/100mslive/",
+            "info_description":"Powering the increasingly virtual, remote-first world with best-in-class live video experience. \n",
+            "info_hq":"San Francisco",
+            "info_size":51,
+            "info_founded":2020,
+            "info_specialties":"live video|video conferencing |virtual events|EdTech|Teleconferencing |Fitness",
+            "info_industry":{
+                "id":7,
+                "name":"Software Development"
+            },
+            "info_type":{
+                "id":1,
+                "name":"Privately Held"
+            },
+            "num_jobs_open":0,
+            "num_jobs_total":0
+        },
+        {
+            "id":1,
+            "name":"1010data",
+            "logo":"https://jobdataapi.com/media/company/logo/20/03/1010data.jpg",
+            "website_url":"https://www.1010data.com/",
+            "linkedin_url":null,
+            "twitter_handle":"1010data",
+            "github_url":"https://github.com/1010data",
+            "info_description":null,
+            "info_hq":null,
+            "info_size":null,
+            "info_founded":null,
+            "info_specialties":null,
+            "info_industry":null,
+            "info_type":null,
+            "num_jobs_open":0,
+            "num_jobs_total":10
+        },
+        {
+            "id":20996,
+            "name":"1047 Games",
+            "logo":"https://jobdataapi.com/media/company/logo/24/02/logo_img_eGwBVkQ.png",
+            "website_url":"https://www.splitgate.com/",
+            "linkedin_url":"https://www.linkedin.com/company/1047games",
+            "twitter_handle":"splitgate",
+            "github_url":null,
+            "info_description":"1047 Games began with the simple principle that people should have fun while making great games. Bucking convention and driven by a passion to create the ultimate gaming experience, Ian Proulx and Nicholas Bagamian founded 1047 Games in 2017 in their Stanford dorm room. Their love for arena shooters of the past drove them to create Splitgate, a unique sci-fi first-person shooter that adds portal guns to upend the genre. \n\nWhat started as two computer science majors putting portals into a first-person shooter for a project demo has evolved into a VC-backed company which has raised more than $120MM in funding. \n\nAt 1047 Games, you\u2019ll find a permanently remote, dedicated team of top-tier talent from some of the world\u2019s biggest gaming and tech companies who share our founders\u2019 vision. Grit, ingenuity, a desire to have fun, and a start up mentality define our crew. And we\u2019re just getting started.",
+            "info_hq":"Zephyr Cove, NV",
+            "info_size":51,
+            "info_founded":2016,
+            "info_specialties":null,
+            "info_industry":{
+                "id":16,
+                "name":"Computer Games"
+            },
+            "info_type":{
+                "id":1,
+                "name":"Privately Held"
+            },
+            "num_jobs_open":13,
+            "num_jobs_total":72
+        },
+        {
+            "id":8215,
+            "name":"10Clouds",
+            "logo":"https://jobdataapi.com/media/company/logo/23/05/WiYysTsy_400x400.jpg",
+            "website_url":"https://10clouds.com",
+            "linkedin_url":"https://www.linkedin.com/company/10clouds-com",
+            "twitter_handle":"10clouds",
+            "github_url":null,
+            "info_description":"10Clouds is a software consultancy, development, ML and design house based in Warsaw, Poland. \n\nWe focus on creating digital products and solutions for MedTech, PropTech, IoT, AI, EduTech, Blockchain, FinTech, and Banking industries. But we have experience in many more verticals.\n\nOur services and top tier 1 technologies include, but are not limited to:\n- mobile app development for iOS and Android, \n- web development in Python & Django, NodeJS, and JavaScript/TypeScript & ReactJS,\n- blockchain technology implementation (Solidity & EVM + Rust & Polkadot based blockchains),\n- 360' design services: product design, branding, visual and motion design,\n- team augmentation in selected technologies,\n- DevOps (AWS and Kubernetes) and QA plus software maintenance, \n- OpenAI integrations, machine learning and MLOps.\nIf your preferred tech stack is not mentioned above - feel free to reach us, we can do much more!\n\nWe serve clients worldwide, mainly in the US and Europe, and have worked with high-profile clients like Pinterest and Tagasauris. Whether you are looking for help developing and designing a software application or mobile app, we can assist!\n\nWe follow SCRUM when developing our products, ensuring that the client is involved in every step of development and our location in Poland ensures a good and close cooperation with companies in different time zones all over the world.\n\nReference projects include TrustStamp (Identity verification), Emergent Tech (G-Coin), AlephZero (Blockchain), Tapeke (BitCoin Software Development), Tagasauris (Crowdsourcing Software Development), CallerSmart, and many others.\n\nWrite to us about your project via the contact form on 10clouds.com/contact-us/",
+            "info_hq":"Warsaw, Mazowieckie",
+            "info_size":51,
+            "info_founded":2009,
+            "info_specialties":"angularjs|javascript|python development|django|amazon web services|cloud computing|bitcoin|ux design|web development|mobile apps development|blockchain development services|DApps|Smart Contracts|cryptocurrency exchanges design|NFT marketplace|software development services for FinTech|Banking software development|DeFi|MedTech|EduTech|Generative AI",
+            "info_industry":{
+                "id":1,
+                "name":"IT Services and IT Consulting"
+            },
+            "info_type":{
+                "id":4,
+                "name":"Public Company"
+            },
+            "num_jobs_open":0,
+            "num_jobs_total":50
+        },
+        {
+            "id":8904,
+            "name":"10 Minute School",
+            "logo":"https://jobdataapi.com/media/company/logo/23/07/10ms.jpeg",
+            "website_url":"https://10minuteschool.com/",
+            "linkedin_url":"https://www.linkedin.com/company/10ms/",
+            "twitter_handle":null,
+            "github_url":null,
+            "info_description":"10 Minute School is the largest education technology company in Bangladesh with over 4.7 million+ users.\n\nToday, we teach over 10 million+ students every day across all our platforms, employ over 300 people around Bangladesh and work with over 500+ educators and 2,500+ collaborators. \n\nWith over 40 million students in Bangladesh, 10 Minute School envisions a world where no geographical and economic barriers can stop access to quality education. If you believe everyone deserves the best education possible, join us!\n\n10 Minute School offers individuals the chance to work with a dream team of talented and driven engineers, product managers, content experts, marketers, and more with the chance to grow professionally and personally under some of the best mentors. There are opportunities to lead impactful projects that make a difference in the lives of millions of students every day. With competitive salaries, benefits, and a culture that promotes a growth mindset, we welcome people who want to create an impact with their work.\n\nWe want to ensure everyone can learn anything they want from anywhere in the world. If you want to be a part of this revolution, we welcome you to the largest EdTech in Bangladesh.\n\nTo join us, visit our career page: \nhttps://10ms.io/linkedin-career01 \n\nCall us at 16910 for further queries.",
+            "info_hq":"Dhaka",
+            "info_size":51,
+            "info_founded":null,
+            "info_specialties":"Online Education |Online Live Class|SmartBooks|Interactive Videos |Video| Quiz|Courses|Interactive Books",
+            "info_industry":{
+                "id":85,
+                "name":"E-Learning Providers"
+            },
+            "info_type":{
+                "id":1,
+                "name":"Privately Held"
+            },
+            "num_jobs_open":38,
+            "num_jobs_total":173
+        },
+        {
+            "id":1657,
+            "name":"10Pearls",
+            "logo":"https://jobdataapi.com/media/company/logo/22/02/TenPearls.jpg",
+            "website_url":"https://10pearls.com/",
+            "linkedin_url":"https://www.linkedin.com/company/10pearls/",
+            "twitter_handle":"TenPearls",
+            "github_url":null,
+            "info_description":"10Pearls is a global leading product innovation and software development partner. We have a culture of innovation, uniquely designed to help businesses transform, digitalize and scale leveraging digital technology. We're recognized by top research firms, including Gartner and Forrester. The Washington Post has referred us to as a double-bottom line business, balancing human centric values and profits.\n\n10Pearls offers a complete suite of application and software development services, and we would love to partner with you. Current partners in our portfolio include rapidly growing startups and established enterprises:\nAARP \u2022 Coca-Cola \u2022 Capital One \u2022 PayPal \u2022 Hughes \u2022 Adobe \u2022 Docker \u2022 Sprint Medstar Health \u2022 Corcentric \u2022 Discovery Education \u2022 Johnson & Johnson \u2022 Zubie \u2022 Blackboard \u2022 National Geographic \u2022 JK Moving \u2022 General Dynamics \n\nOur team blends high-value stateside product managers, UX/UI designers, architects, and security experts with our global development workforce to yield maximum returns for clients. \n\nAt 10Pearls, we believe in harnessing the power of technology for social good. We\u2019re firmly committed to contributing positively to society through business value creation and initiatives like our Empower Foundation.\n\nAwards & Industry Recognition:\n\u2022 2023, 2022, 2021, 2020 & 2019 Inc. 5000 List of Fastest-Growing Private Companies in U.S.\n\u2022 2022 Financial Times Recognition for Americas Fastest Growing Companies.\n\u2022 2021 & 2020 Timmy Award winner for Best Tech Culture\n\u2022 Ernst & Young Entrepreneur of the Year 2020, Mid-Atlantic Finalist (CEO)\n\u2022 Forrester: Top Partner for Custom Software Development\n\u2022 Forrester: Top Digital Transformation Service Provider\n\u2022 Forrester: Featured AI Consultancy\n\u2022 Gartner: Featured for Agile & DevOps Services\n\u2022 Gartner: Featured for Agile & DevOps Services\n\u2022 Gartner: AI Consulting & System Integration",
+            "info_hq":"Vienna, Virginia",
+            "info_size":1001,
+            "info_founded":null,
+            "info_specialties":"Mobile Applications|Enterprise & Web Application Development|User Experience and Design|Cyber Security|Product Development|DevOps|Offshoring|Outsourcing|Artificial Intelligence|IT Services|Emerging Technology|Staff Augmentation|Continuous Security|Technology Partnerships|iOS|Android|Software|Website Design & Development|software development|cybersecurity|IoT|DevSecOps|Technology and Process Audits",
+            "info_industry":{
+                "id":1,
+                "name":"IT Services and IT Consulting"
+            },
+            "info_type":{
+                "id":1,
+                "name":"Privately Held"
+            },
+            "num_jobs_open":0,
+            "num_jobs_total":0
+        },
+        {
+            "id":25201,
+            "name":"10Pearls",
+            "logo":"https://jobdataapi.com/media/company/logo/24/04/logo_img_FJiRDmE.png",
+            "website_url":"https://10pearls.com/",
+            "linkedin_url":"https://www.linkedin.com/company/10pearls/",
+            "twitter_handle":"TenPearls",
+            "github_url":null,
+            "info_description":"10Pearls is a global leading product innovation and software development partner. We have a culture of innovation, uniquely designed to help businesses transform, digitalize and scale leveraging digital technology. We're recognized by top research firms, including Gartner and Forrester. The Washington Post has referred us to as a double-bottom line business, balancing human centric values and profits.\n\n10Pearls offers a complete suite of application and software development services, and we would love to partner with you. Current partners in our portfolio include rapidly growing startups and established enterprises:\nAARP \u2022 Coca-Cola \u2022 Capital One \u2022 PayPal \u2022 Hughes \u2022 Adobe \u2022 Docker \u2022 Sprint Medstar Health \u2022 Corcentric \u2022 Discovery Education \u2022 Johnson & Johnson \u2022 Zubie \u2022 Blackboard \u2022 National Geographic \u2022 JK Moving \u2022 General Dynamics \n\nOur team blends high-value stateside product managers, UX/UI designers, architects, and security experts with our global development workforce to yield maximum returns for clients. \n\nAt 10Pearls, we believe in harnessing the power of technology for social good. We\u2019re firmly committed to contributing positively to society through business value creation and initiatives like our Empower Foundation.\n\nAwards & Industry Recognition:\n\u2022 2023, 2022, 2021, 2020 & 2019 Inc. 5000 List of Fastest-Growing Private Companies in U.S.\n\u2022 2022 Financial Times Recognition for Americas Fastest Growing Companies.\n\u2022 2021 & 2020 Timmy Award winner for Best Tech Culture\n\u2022 Ernst & Young Entrepreneur of the Year 2020, Mid-Atlantic Finalist (CEO)\n\u2022 Forrester: Top Partner for Custom Software Development\n\u2022 Forrester: Top Digital Transformation Service Provider\n\u2022 Forrester: Featured AI Consultancy\n\u2022 Gartner: Featured for Agile & DevOps Services\n\u2022 Gartner: Featured for Agile & DevOps Services\n\u2022 Gartner: AI Consulting & System Integration",
+            "info_hq":"Vienna, Virginia",
+            "info_size":1001,
+            "info_founded":null,
+            "info_specialties":"Mobile Applications|Enterprise & Web Application Development|User Experience and Design|Cyber Security|Product Development|DevOps|Offshoring|Outsourcing|Artificial Intelligence|IT Services|Emerging Technology|Staff Augmentation|Continuous Security|Technology Partnerships|iOS|Android|Software|Website Design & Development|software development|cybersecurity|IoT|DevSecOps|Technology and Process Audits",
+            "info_industry":{
+                "id":1,
+                "name":"IT Services and IT Consulting"
+            },
+            "info_type":{
+                "id":1,
+                "name":"Privately Held"
+            },
+            "num_jobs_open":26,
+            "num_jobs_total":122
+        },
+        {
+            "id":19997,
+            "name":"10Pearls",
+            "logo":"https://jobdataapi.com/media/company/logo/24/01/logo_img_aOK0iUb.png",
+            "website_url":"https://10pearls.com",
+            "linkedin_url":"https://www.linkedin.com/company/10pearls/",
+            "twitter_handle":"TenPearls",
+            "github_url":null,
+            "info_description":"10Pearls is a global leading product innovation and software development partner. We have a culture of innovation, uniquely designed to help businesses transform, digitalize and scale leveraging digital technology. We're recognized by top research firms, including Gartner and Forrester. The Washington Post has referred us to as a double-bottom line business, balancing human centric values and profits.\n\n10Pearls offers a complete suite of application and software development services, and we would love to partner with you. Current partners in our portfolio include rapidly growing startups and established enterprises:\nAARP \u2022 Coca-Cola \u2022 Capital One \u2022 PayPal \u2022 Hughes \u2022 Adobe \u2022 Docker \u2022 Sprint Medstar Health \u2022 Corcentric \u2022 Discovery Education \u2022 Johnson & Johnson \u2022 Zubie \u2022 Blackboard \u2022 National Geographic \u2022 JK Moving \u2022 General Dynamics \n\nOur team blends high-value stateside product managers, UX/UI designers, architects, and security experts with our global development workforce to yield maximum returns for clients. \n\nAt 10Pearls, we believe in harnessing the power of technology for social good. We\u2019re firmly committed to contributing positively to society through business value creation and initiatives like our Empower Foundation.\n\nAwards & Industry Recognition:\n\u2022 2023, 2022, 2021, 2020 & 2019 Inc. 5000 List of Fastest-Growing Private Companies in U.S.\n\u2022 2022 Financial Times Recognition for Americas Fastest Growing Companies.\n\u2022 2021 & 2020 Timmy Award winner for Best Tech Culture\n\u2022 Ernst & Young Entrepreneur of the Year 2020, Mid-Atlantic Finalist (CEO)\n\u2022 Forrester: Top Partner for Custom Software Development\n\u2022 Forrester: Top Digital Transformation Service Provider\n\u2022 Forrester: Featured AI Consultancy\n\u2022 Gartner: Featured for Agile & DevOps Services\n\u2022 Gartner: Featured for Agile & DevOps Services\n\u2022 Gartner: AI Consulting & System Integration",
+            "info_hq":"Vienna, Virginia",
+            "info_size":1001,
+            "info_founded":null,
+            "info_specialties":"Mobile Applications|Enterprise & Web Application Development|User Experience and Design|Cyber Security|Product Development|DevOps|Offshoring|Outsourcing|Artificial Intelligence|IT Services|Emerging Technology|Staff Augmentation|Continuous Security|Technology Partnerships|iOS|Android|Software|Website Design & Development|software development|cybersecurity|IoT|DevSecOps|Technology and Process Audits",
+            "info_industry":{
+                "id":1,
+                "name":"IT Services and IT Consulting"
+            },
+            "info_type":{
+                "id":1,
+                "name":"Privately Held"
+            },
+            "num_jobs_open":7,
+            "num_jobs_total":176
+        }
+    ]
+}

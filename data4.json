@@ -1,0 +1,1282 @@
+[
+    {
+        "id":22,
+        "name":"Accounting"
+    },
+    {
+        "id":318,
+        "name":"Administration of Justice"
+    },
+    {
+        "id":297,
+        "name":"Administrative and Support Services"
+    },
+    {
+        "id":8,
+        "name":"Advertising Services"
+    },
+    {
+        "id":245,
+        "name":"Agricultural Chemical Manufacturing"
+    },
+    {
+        "id":189,
+        "name":"Agriculture, Construction, Mining Machinery Manufacturing"
+    },
+    {
+        "id":56,
+        "name":"Airlines and Aviation"
+    },
+    {
+        "id":219,
+        "name":"Alternative Medicine"
+    },
+    {
+        "id":315,
+        "name":"Amusement Parks and Arcades"
+    },
+    {
+        "id":290,
+        "name":"Animal Feed Manufacturing"
+    },
+    {
+        "id":241,
+        "name":"Animation"
+    },
+    {
+        "id":133,
+        "name":"Animation and Post-production"
+    },
+    {
+        "id":103,
+        "name":"Apparel & Fashion"
+    },
+    {
+        "id":319,
+        "name":"Apparel Manufacturing"
+    },
+    {
+        "id":88,
+        "name":"Appliances, Electrical, and Electronics Manufacturing"
+    },
+    {
+        "id":199,
+        "name":"Architecture and Planning"
+    },
+    {
+        "id":221,
+        "name":"Armed Forces"
+    },
+    {
+        "id":125,
+        "name":"Artists and Writers"
+    },
+    {
+        "id":34,
+        "name":"Automation Machinery Manufacturing"
+    },
+    {
+        "id":77,
+        "name":"Automotive"
+    },
+    {
+        "id":154,
+        "name":"Aviation & Aerospace"
+    },
+    {
+        "id":24,
+        "name":"Aviation and Aerospace Component Manufacturing"
+    },
+    {
+        "id":288,
+        "name":"Baked Goods Manufacturing"
+    },
+    {
+        "id":6,
+        "name":"Banking"
+    },
+    {
+        "id":126,
+        "name":"Beverage Manufacturing"
+    },
+    {
+        "id":109,
+        "name":"Biotechnology"
+    },
+    {
+        "id":46,
+        "name":"Biotechnology Research"
+    },
+    {
+        "id":152,
+        "name":"Blockchain Services"
+    },
+    {
+        "id":49,
+        "name":"Book and Periodical Publishing"
+    },
+    {
+        "id":121,
+        "name":"Broadcast Media Production and Distribution"
+    },
+    {
+        "id":172,
+        "name":"Building Construction"
+    },
+    {
+        "id":296,
+        "name":"Building Equipment Contractors"
+    },
+    {
+        "id":123,
+        "name":"Building Materials"
+    },
+    {
+        "id":40,
+        "name":"Business Consulting and Services"
+    },
+    {
+        "id":212,
+        "name":"Business Content"
+    },
+    {
+        "id":179,
+        "name":"Business Intelligence Platforms"
+    },
+    {
+        "id":138,
+        "name":"Capital Markets"
+    },
+    {
+        "id":92,
+        "name":"Chemical Manufacturing"
+    },
+    {
+        "id":188,
+        "name":"Chemical Raw Materials Manufacturing"
+    },
+    {
+        "id":238,
+        "name":"Child Day Care Services"
+    },
+    {
+        "id":307,
+        "name":"Chiropractors"
+    },
+    {
+        "id":137,
+        "name":"Civic and Social Organizations"
+    },
+    {
+        "id":33,
+        "name":"Civil Engineering"
+    },
+    {
+        "id":185,
+        "name":"Climate Data and Analytics"
+    },
+    {
+        "id":117,
+        "name":"Climate Technology Product Manufacturing"
+    },
+    {
+        "id":305,
+        "name":"Commercial and Industrial Equipment Rental"
+    },
+    {
+        "id":253,
+        "name":"Commercial and Industrial Machinery Maintenance"
+    },
+    {
+        "id":228,
+        "name":"Communications Equipment Manufacturing"
+    },
+    {
+        "id":279,
+        "name":"Community Services"
+    },
+    {
+        "id":21,
+        "name":"Computer and Network Security"
+    },
+    {
+        "id":16,
+        "name":"Computer Games"
+    },
+    {
+        "id":224,
+        "name":"Computer Hardware"
+    },
+    {
+        "id":36,
+        "name":"Computer Hardware Manufacturing"
+    },
+    {
+        "id":255,
+        "name":"Computer Networking"
+    },
+    {
+        "id":147,
+        "name":"Computer Networking Products"
+    },
+    {
+        "id":28,
+        "name":"Computers and Electronics Manufacturing"
+    },
+    {
+        "id":31,
+        "name":"Construction"
+    },
+    {
+        "id":183,
+        "name":"Consumer Electronics"
+    },
+    {
+        "id":150,
+        "name":"Consumer Goods"
+    },
+    {
+        "id":240,
+        "name":"Consumer Goods Rental"
+    },
+    {
+        "id":54,
+        "name":"Consumer Services"
+    },
+    {
+        "id":201,
+        "name":"Cosmetics"
+    },
+    {
+        "id":246,
+        "name":"Dairy Product Manufacturing"
+    },
+    {
+        "id":146,
+        "name":"Data Infrastructure and Analytics"
+    },
+    {
+        "id":73,
+        "name":"Data Security Software Products"
+    },
+    {
+        "id":50,
+        "name":"Defense and Space Manufacturing"
+    },
+    {
+        "id":44,
+        "name":"Defense & Space"
+    },
+    {
+        "id":282,
+        "name":"Dentists"
+    },
+    {
+        "id":17,
+        "name":"Design"
+    },
+    {
+        "id":120,
+        "name":"Design Services"
+    },
+    {
+        "id":118,
+        "name":"Desktop Computing Software Products"
+    },
+    {
+        "id":266,
+        "name":"Economic Programs"
+    },
+    {
+        "id":153,
+        "name":"Education"
+    },
+    {
+        "id":74,
+        "name":"Education Administration Programs"
+    },
+    {
+        "id":101,
+        "name":"Education Management"
+    },
+    {
+        "id":165,
+        "name":"E-learning"
+    },
+    {
+        "id":85,
+        "name":"E-Learning Providers"
+    },
+    {
+        "id":209,
+        "name":"Electrical Equipment Manufacturing"
+    },
+    {
+        "id":244,
+        "name":"Electric Lighting Equipment Manufacturing"
+    },
+    {
+        "id":61,
+        "name":"Electric Power Generation"
+    },
+    {
+        "id":66,
+        "name":"Electric Power Transmission, Control, and Distribution"
+    },
+    {
+        "id":142,
+        "name":"Embedded Software Products"
+    },
+    {
+        "id":113,
+        "name":"Engineering Services"
+    },
+    {
+        "id":268,
+        "name":"Engines and Power Transmission Equipment Manufacturing"
+    },
+    {
+        "id":51,
+        "name":"Entertainment"
+    },
+    {
+        "id":107,
+        "name":"Entertainment Providers"
+    },
+    {
+        "id":2,
+        "name":"Environmental Services"
+    },
+    {
+        "id":176,
+        "name":"Equipment Rental Services"
+    },
+    {
+        "id":122,
+        "name":"Events Services"
+    },
+    {
+        "id":134,
+        "name":"Executive Offices"
+    },
+    {
+        "id":252,
+        "name":"Executive Search Services"
+    },
+    {
+        "id":216,
+        "name":"Fabricated Metal Products"
+    },
+    {
+        "id":89,
+        "name":"Facilities Services"
+    },
+    {
+        "id":52,
+        "name":"Farming"
+    },
+    {
+        "id":257,
+        "name":"Farming, Ranching, Forestry"
+    },
+    {
+        "id":3,
+        "name":"Financial Services"
+    },
+    {
+        "id":256,
+        "name":"Fire Protection"
+    },
+    {
+        "id":159,
+        "name":"Fisheries"
+    },
+    {
+        "id":87,
+        "name":"Food and Beverage Manufacturing"
+    },
+    {
+        "id":271,
+        "name":"Food and Beverage Retail"
+    },
+    {
+        "id":43,
+        "name":"Food and Beverage Services"
+    },
+    {
+        "id":203,
+        "name":"Food & Beverages"
+    },
+    {
+        "id":202,
+        "name":"Food Production"
+    },
+    {
+        "id":207,
+        "name":"Freight and Package Transportation"
+    },
+    {
+        "id":211,
+        "name":"Fundraising"
+    },
+    {
+        "id":232,
+        "name":"Furniture"
+    },
+    {
+        "id":173,
+        "name":"Furniture and Home Furnishings Manufacturing"
+    },
+    {
+        "id":72,
+        "name":"Gambling Facilities and Casinos"
+    },
+    {
+        "id":97,
+        "name":"Glass, Ceramics and Concrete Manufacturing"
+    },
+    {
+        "id":76,
+        "name":"Government Administration"
+    },
+    {
+        "id":198,
+        "name":"Government Relations"
+    },
+    {
+        "id":217,
+        "name":"Government Relations Services"
+    },
+    {
+        "id":190,
+        "name":"Graphic Design"
+    },
+    {
+        "id":237,
+        "name":"Ground Passenger Transportation"
+    },
+    {
+        "id":180,
+        "name":"Health and Human Services"
+    },
+    {
+        "id":71,
+        "name":"Health, Wellness & Fitness"
+    },
+    {
+        "id":94,
+        "name":"Higher Education"
+    },
+    {
+        "id":236,
+        "name":"Holding Companies"
+    },
+    {
+        "id":210,
+        "name":"Home Health Care Services"
+    },
+    {
+        "id":259,
+        "name":"Horticulture"
+    },
+    {
+        "id":45,
+        "name":"Hospitality"
+    },
+    {
+        "id":316,
+        "name":"Hospitals"
+    },
+    {
+        "id":25,
+        "name":"Hospitals and Health Care"
+    },
+    {
+        "id":306,
+        "name":"Housing and Community Development"
+    },
+    {
+        "id":164,
+        "name":"Human Resources"
+    },
+    {
+        "id":58,
+        "name":"Human Resources Services"
+    },
+    {
+        "id":265,
+        "name":"Hydroelectric Power Generation"
+    },
+    {
+        "id":184,
+        "name":"Individual and Family Services"
+    },
+    {
+        "id":15,
+        "name":"Industrial Automation"
+    },
+    {
+        "id":84,
+        "name":"Industrial Machinery Manufacturing"
+    },
+    {
+        "id":9,
+        "name":"Information Services"
+    },
+    {
+        "id":20,
+        "name":"Information Technology & Services"
+    },
+    {
+        "id":78,
+        "name":"Insurance"
+    },
+    {
+        "id":178,
+        "name":"Insurance Agencies and Brokerages"
+    },
+    {
+        "id":275,
+        "name":"Insurance and Employee Benefit Funds"
+    },
+    {
+        "id":298,
+        "name":"Insurance Carriers"
+    },
+    {
+        "id":208,
+        "name":"Interior Design"
+    },
+    {
+        "id":166,
+        "name":"International Affairs"
+    },
+    {
+        "id":171,
+        "name":"International Trade and Development"
+    },
+    {
+        "id":26,
+        "name":"Internet Marketplace Platforms"
+    },
+    {
+        "id":158,
+        "name":"Internet News"
+    },
+    {
+        "id":106,
+        "name":"Internet Publishing"
+    },
+    {
+        "id":214,
+        "name":"Investment Banking"
+    },
+    {
+        "id":80,
+        "name":"Investment Management"
+    },
+    {
+        "id":1,
+        "name":"IT Services and IT Consulting"
+    },
+    {
+        "id":196,
+        "name":"IT System Custom Software Development"
+    },
+    {
+        "id":220,
+        "name":"IT System Data Services"
+    },
+    {
+        "id":310,
+        "name":"IT System Design Services"
+    },
+    {
+        "id":194,
+        "name":"IT System Operations and Maintenance"
+    },
+    {
+        "id":272,
+        "name":"IT System Testing and Evaluation"
+    },
+    {
+        "id":204,
+        "name":"IT System Training and Support"
+    },
+    {
+        "id":278,
+        "name":"Landscaping Services"
+    },
+    {
+        "id":247,
+        "name":"Laundry and Drycleaning Services"
+    },
+    {
+        "id":193,
+        "name":"Law Enforcement"
+    },
+    {
+        "id":139,
+        "name":"Law Practice"
+    },
+    {
+        "id":110,
+        "name":"Leasing Non-residential Real Estate"
+    },
+    {
+        "id":119,
+        "name":"Legal Services"
+    },
+    {
+        "id":230,
+        "name":"Leisure, Travel & Tourism"
+    },
+    {
+        "id":262,
+        "name":"Libraries"
+    },
+    {
+        "id":160,
+        "name":"Luxury Goods & Jewelry"
+    },
+    {
+        "id":93,
+        "name":"Machinery Manufacturing"
+    },
+    {
+        "id":67,
+        "name":"Manufacturing"
+    },
+    {
+        "id":192,
+        "name":"Maritime"
+    },
+    {
+        "id":116,
+        "name":"Maritime Transportation"
+    },
+    {
+        "id":75,
+        "name":"Marketing Services"
+    },
+    {
+        "id":23,
+        "name":"Market Research"
+    },
+    {
+        "id":239,
+        "name":"Measuring and Control Instrument Manufacturing"
+    },
+    {
+        "id":104,
+        "name":"Mechanical Or Industrial Engineering"
+    },
+    {
+        "id":249,
+        "name":"Media and Telecommunications"
+    },
+    {
+        "id":68,
+        "name":"Media Production"
+    },
+    {
+        "id":130,
+        "name":"Medical and Diagnostic Laboratories"
+    },
+    {
+        "id":229,
+        "name":"Medical Device"
+    },
+    {
+        "id":90,
+        "name":"Medical Equipment Manufacturing"
+    },
+    {
+        "id":53,
+        "name":"Medical Practices"
+    },
+    {
+        "id":131,
+        "name":"Mental Health Care"
+    },
+    {
+        "id":251,
+        "name":"Metal Ore Mining"
+    },
+    {
+        "id":303,
+        "name":"Metal Treatments"
+    },
+    {
+        "id":14,
+        "name":"Mining"
+    },
+    {
+        "id":170,
+        "name":"Mobile Computing Software Products"
+    },
+    {
+        "id":258,
+        "name":"Mobile Food Services"
+    },
+    {
+        "id":143,
+        "name":"Mobile Gaming Apps"
+    },
+    {
+        "id":12,
+        "name":"Motor Vehicle Manufacturing"
+    },
+    {
+        "id":161,
+        "name":"Motor Vehicle Parts Manufacturing"
+    },
+    {
+        "id":197,
+        "name":"Movies and Sound Recording"
+    },
+    {
+        "id":82,
+        "name":"Movies, Videos, and Sound"
+    },
+    {
+        "id":227,
+        "name":"Museums"
+    },
+    {
+        "id":102,
+        "name":"Museums, Historical Sites, and Zoos"
+    },
+    {
+        "id":63,
+        "name":"Music"
+    },
+    {
+        "id":129,
+        "name":"Musicians"
+    },
+    {
+        "id":234,
+        "name":"Nanotechnology Research"
+    },
+    {
+        "id":264,
+        "name":"Natural Gas Distribution"
+    },
+    {
+        "id":225,
+        "name":"Newspaper Publishing"
+    },
+    {
+        "id":187,
+        "name":"Non-profit Organization Management"
+    },
+    {
+        "id":37,
+        "name":"Non-profit Organizations"
+    },
+    {
+        "id":294,
+        "name":"Nonresidential Building Construction"
+    },
+    {
+        "id":155,
+        "name":"Nuclear Electric Power Generation"
+    },
+    {
+        "id":136,
+        "name":"Nursing Homes and Residential Care Facilities"
+    },
+    {
+        "id":96,
+        "name":"Oil and Gas"
+    },
+    {
+        "id":177,
+        "name":"Online and Mail Order Retail"
+    },
+    {
+        "id":140,
+        "name":"Online Audio and Video Media"
+    },
+    {
+        "id":261,
+        "name":"Online Media"
+    },
+    {
+        "id":284,
+        "name":"Operations Consulting"
+    },
+    {
+        "id":301,
+        "name":"Optometrists"
+    },
+    {
+        "id":135,
+        "name":"Outsourcing and Offshoring Consulting"
+    },
+    {
+        "id":144,
+        "name":"Outsourcing/Offshoring"
+    },
+    {
+        "id":163,
+        "name":"Packaging and Containers Manufacturing"
+    },
+    {
+        "id":156,
+        "name":"Packaging & Containers"
+    },
+    {
+        "id":302,
+        "name":"Paint, Coating, and Adhesive Manufacturing"
+    },
+    {
+        "id":65,
+        "name":"Paper and Forest Product Manufacturing"
+    },
+    {
+        "id":300,
+        "name":"Paper & Forest Products"
+    },
+    {
+        "id":277,
+        "name":"Performing Arts"
+    },
+    {
+        "id":248,
+        "name":"Periodical Publishing"
+    },
+    {
+        "id":114,
+        "name":"Personal Care Product Manufacturing"
+    },
+    {
+        "id":263,
+        "name":"Personal Care Services"
+    },
+    {
+        "id":222,
+        "name":"Pet Services"
+    },
+    {
+        "id":41,
+        "name":"Pharmaceutical Manufacturing"
+    },
+    {
+        "id":213,
+        "name":"Philanthropic Fundraising Services"
+    },
+    {
+        "id":273,
+        "name":"Philanthropy"
+    },
+    {
+        "id":124,
+        "name":"Photography"
+    },
+    {
+        "id":295,
+        "name":"Physical, Occupational and Speech Therapists"
+    },
+    {
+        "id":11,
+        "name":"Plastics Manufacturing"
+    },
+    {
+        "id":167,
+        "name":"Political Organizations"
+    },
+    {
+        "id":59,
+        "name":"Primary and Secondary Education"
+    },
+    {
+        "id":293,
+        "name":"Primary Metal Manufacturing"
+    },
+    {
+        "id":112,
+        "name":"Printing Services"
+    },
+    {
+        "id":69,
+        "name":"Professional Services"
+    },
+    {
+        "id":128,
+        "name":"Professional Training and Coaching"
+    },
+    {
+        "id":99,
+        "name":"Public Health"
+    },
+    {
+        "id":276,
+        "name":"Public Policy"
+    },
+    {
+        "id":29,
+        "name":"Public Policy Offices"
+    },
+    {
+        "id":39,
+        "name":"Public Relations and Communications Services"
+    },
+    {
+        "id":19,
+        "name":"Public Safety"
+    },
+    {
+        "id":260,
+        "name":"Radio and Television Broadcasting"
+    },
+    {
+        "id":175,
+        "name":"Railroad Equipment Manufacturing"
+    },
+    {
+        "id":132,
+        "name":"Rail Transportation"
+    },
+    {
+        "id":4,
+        "name":"Real Estate"
+    },
+    {
+        "id":309,
+        "name":"Real Estate Agents and Brokers"
+    },
+    {
+        "id":274,
+        "name":"Recreational Facilities"
+    },
+    {
+        "id":286,
+        "name":"Religious Institutions"
+    },
+    {
+        "id":48,
+        "name":"Renewable Energy Equipment Manufacturing"
+    },
+    {
+        "id":162,
+        "name":"Renewable Energy Power Generation"
+    },
+    {
+        "id":55,
+        "name":"Renewable Energy Semiconductor Manufacturing"
+    },
+    {
+        "id":105,
+        "name":"Renewables & Environment"
+    },
+    {
+        "id":313,
+        "name":"Repair and Maintenance"
+    },
+    {
+        "id":195,
+        "name":"Research"
+    },
+    {
+        "id":79,
+        "name":"Research Services"
+    },
+    {
+        "id":191,
+        "name":"Restaurants"
+    },
+    {
+        "id":10,
+        "name":"Retail"
+    },
+    {
+        "id":100,
+        "name":"Retail Apparel and Fashion"
+    },
+    {
+        "id":287,
+        "name":"Retail Appliances, Electrical, and Electronic Equipment"
+    },
+    {
+        "id":233,
+        "name":"Retail Art Dealers"
+    },
+    {
+        "id":62,
+        "name":"Retail Furniture and Home Furnishings"
+    },
+    {
+        "id":226,
+        "name":"Retail Groceries"
+    },
+    {
+        "id":200,
+        "name":"Retail Health and Personal Care Products"
+    },
+    {
+        "id":18,
+        "name":"Retail Luxury Goods and Jewelry"
+    },
+    {
+        "id":111,
+        "name":"Retail Motor Vehicles"
+    },
+    {
+        "id":231,
+        "name":"Retail Office Equipment"
+    },
+    {
+        "id":314,
+        "name":"Retail Pharmacies"
+    },
+    {
+        "id":223,
+        "name":"Robotics Engineering"
+    },
+    {
+        "id":186,
+        "name":"Satellite Telecommunications"
+    },
+    {
+        "id":81,
+        "name":"Security and Investigations"
+    },
+    {
+        "id":304,
+        "name":"Security Guards and Patrol Services"
+    },
+    {
+        "id":250,
+        "name":"Security Systems Services"
+    },
+    {
+        "id":60,
+        "name":"Semiconductor Manufacturing"
+    },
+    {
+        "id":149,
+        "name":"Semiconductors"
+    },
+    {
+        "id":141,
+        "name":"Services for Renewable Energy"
+    },
+    {
+        "id":98,
+        "name":"Shipbuilding"
+    },
+    {
+        "id":215,
+        "name":"Social Networking Platforms"
+    },
+    {
+        "id":7,
+        "name":"Software Development"
+    },
+    {
+        "id":182,
+        "name":"Solar Electric Power Generation"
+    },
+    {
+        "id":157,
+        "name":"Space Research and Technology"
+    },
+    {
+        "id":289,
+        "name":"Specialty Trade Contractors"
+    },
+    {
+        "id":148,
+        "name":"Spectator Sports"
+    },
+    {
+        "id":181,
+        "name":"Sporting Goods"
+    },
+    {
+        "id":127,
+        "name":"Sporting Goods Manufacturing"
+    },
+    {
+        "id":270,
+        "name":"Sports Teams and Clubs"
+    },
+    {
+        "id":145,
+        "name":"Staffing and Recruiting"
+    },
+    {
+        "id":86,
+        "name":"Strategic Management Services"
+    },
+    {
+        "id":285,
+        "name":"Technical and Vocational Training"
+    },
+    {
+        "id":32,
+        "name":"Technology, Information and Internet"
+    },
+    {
+        "id":35,
+        "name":"Technology, Information and Media"
+    },
+    {
+        "id":83,
+        "name":"Telecommunications"
+    },
+    {
+        "id":280,
+        "name":"Telecommunications Carriers"
+    },
+    {
+        "id":320,
+        "name":"Telephone Call Centers"
+    },
+    {
+        "id":206,
+        "name":"Textile Manufacturing"
+    },
+    {
+        "id":5,
+        "name":"Think Tanks"
+    },
+    {
+        "id":235,
+        "name":"Tobacco Manufacturing"
+    },
+    {
+        "id":42,
+        "name":"Translation and Localization"
+    },
+    {
+        "id":308,
+        "name":"Transportation Equipment Manufacturing"
+    },
+    {
+        "id":91,
+        "name":"Transportation, Logistics, Supply Chain and Storage"
+    },
+    {
+        "id":254,
+        "name":"Transportation Programs"
+    },
+    {
+        "id":95,
+        "name":"Transportation/Trucking/Railroad"
+    },
+    {
+        "id":38,
+        "name":"Travel Arrangements"
+    },
+    {
+        "id":30,
+        "name":"Truck Transportation"
+    },
+    {
+        "id":70,
+        "name":"Urban Transit Services"
+    },
+    {
+        "id":27,
+        "name":"Utilities"
+    },
+    {
+        "id":317,
+        "name":"Utility System Construction"
+    },
+    {
+        "id":218,
+        "name":"Vehicle Repair and Maintenance"
+    },
+    {
+        "id":57,
+        "name":"Venture Capital and Private Equity Principals"
+    },
+    {
+        "id":267,
+        "name":"Veterinary"
+    },
+    {
+        "id":169,
+        "name":"Veterinary Services"
+    },
+    {
+        "id":299,
+        "name":"Warehousing and Storage"
+    },
+    {
+        "id":291,
+        "name":"Waste Collection"
+    },
+    {
+        "id":108,
+        "name":"Waste Treatment and Disposal"
+    },
+    {
+        "id":64,
+        "name":"Wellness and Fitness Services"
+    },
+    {
+        "id":13,
+        "name":"Wholesale"
+    },
+    {
+        "id":243,
+        "name":"Wholesale Appliances, Electrical, and Electronics"
+    },
+    {
+        "id":151,
+        "name":"Wholesale Building Materials"
+    },
+    {
+        "id":47,
+        "name":"Wholesale Chemical and Allied Products"
+    },
+    {
+        "id":312,
+        "name":"Wholesale Drugs and Sundries"
+    },
+    {
+        "id":205,
+        "name":"Wholesale Furniture and Home Furnishings"
+    },
+    {
+        "id":281,
+        "name":"Wholesale Hardware, Plumbing, Heating Equipment"
+    },
+    {
+        "id":168,
+        "name":"Wholesale Import and Export"
+    },
+    {
+        "id":311,
+        "name":"Wholesale Luxury Goods and Jewelry"
+    },
+    {
+        "id":174,
+        "name":"Wholesale Metals and Minerals"
+    },
+    {
+        "id":283,
+        "name":"Wholesale Recyclable Materials"
+    },
+    {
+        "id":242,
+        "name":"Wind Electric Power Generation"
+    },
+    {
+        "id":292,
+        "name":"Wine & Spirits"
+    },
+    {
+        "id":115,
+        "name":"Wireless Services"
+    },
+    {
+        "id":269,
+        "name":"Writing and Editing"
+    }
+]
