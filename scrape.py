@@ -28,8 +28,8 @@ def getNext(url):
 
     # get every page
     try:
-        getNext(response[0]['next'])
-    except KeyError:
+        getNext(response['next'])
+    except:
         print('No value found for [next]')
 
 for r in url_array:
@@ -40,11 +40,9 @@ for r in url_array:
     # if there are multiple pages
     try:
         # TODO: find 'next' index. rate limited atm.
-        print(response[0])
-        print(response[1])
-        getNext(response[0]["next"])
-        print(response[0]['next'])
-    except KeyError:
+        getNext(response["next"])
+        print(response['next'])
+    except:
         print('No value found for [next]')
 
 c = 0
