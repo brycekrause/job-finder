@@ -24,13 +24,15 @@ responses = []
 
 c = 0
 for r in url_array:
+    # make the request TODO: add exception handling
     response = requests.get(r).json()
     responses.append(response)
 
     filename = str("data" + c)
+    # write to a newly created file
     with open(filename, 'w') as file:
         json.dump(response, file, seperators=(',', ':'), indent=4)
-        c += 1
+        c += 1 # changes the filename
 
 
 while True:
