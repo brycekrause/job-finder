@@ -28,7 +28,7 @@ for r in url_array:
     response = requests.get(r).json()
     responses.append(response)
 
-    filename = str("data" + str(c) + ".json")
+    filename = str(f"data{str(c)}.json")
     # write to a newly created file
     with open(filename, 'w') as file:
         json.dump(response, file, indent=4, separators=(',', ':'))
