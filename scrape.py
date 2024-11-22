@@ -22,11 +22,15 @@ url_array = [
 
 responses = []
 
-print("Please wait...", end='')
+c = 0
 for r in url_array:
-    print(".", end='')
     response = requests.get(r).json()
     responses.append(response)
+
+    filename = str("data" + c)
+    with open(filename, 'w') as file:
+        json.dump(response, file, seperators=(',', ':'), indent=4)
+        c += 1
 
 
 while True:
