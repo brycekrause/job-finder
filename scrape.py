@@ -19,3 +19,17 @@ url_array = [
     industries_url,
     companies_url
     ]
+
+responses = []
+
+print("Please wait...", end='')
+for r in url_array:
+    print(".", end='')
+    response = requests.get(r).json()
+    responses.append(response)
+
+
+while True:
+    print(f'responses[] has {len(responses)} elements')
+    index = int(input('What index? (1-6) '))
+    print(responses[index-1])
